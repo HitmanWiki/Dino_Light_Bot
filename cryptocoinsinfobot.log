@@ -1,0 +1,118 @@
+2023-03-14 22:02:09,028 cryptocoinsinfo.utils INFO Start the @CryptoCoinsInfoBot bot!
+2023-03-14 22:02:33,184 cryptocoinsinfo.utils INFO Start the @CryptoCoinsInfoBot bot!
+2023-03-14 22:03:12,693 cryptocoinsinfo.utils INFO Start the @CryptoCoinsInfoBot bot!
+2023-03-14 22:03:17,727 cryptocoinsinfo.utils INFO Start a request to coinmarketcap API
+2023-03-14 22:03:19,879 cryptocoinsinfo.utils INFO Success download the coinslist from coinmarketcap
+2023-03-14 22:03:20,466 cryptocoinsinfo.utils INFO Success save it to D:\dino-master\Dino_Bot\cryptocoinsinfo/coinmarketcoins.json
+2023-03-14 22:03:22,772 cryptocoinsinfo.utils INFO Start a request to cryptocompare API
+2023-03-14 22:03:25,514 cryptocoinsinfo.utils INFO Success download the coinslist from cryptocompare
+2023-03-14 22:03:26,347 cryptocoinsinfo.utils INFO Success save it to D:\dino-master\Dino_Bot\cryptocoinsinfo/cryptocomparecoins.json
+2023-03-14 22:03:42,477 cryptocoinsinfo.utils INFO Has received a command "/start" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:03:49,015 cryptocoinsinfo.utils INFO Has received a message "Twitter" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:03:49,556 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:03:57,977 cryptocoinsinfo.utils INFO Has received a message "Telegram" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:04:02,671 cryptocoinsinfo.utils INFO Has received a message "Buy_Now" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:04:03,093 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:04:05,823 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:04:06,947 cryptocoinsinfo.utils INFO Has received a message "Dai" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:04:08,465 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:04:11,255 cryptocoinsinfo.utils INFO Has received a message "Ethereum" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:04:12,665 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:04:17,650 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:04:18,172 cryptocoinsinfo.utils INFO Has received a message "Twitter" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:04:18,576 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:07:08,492 cryptocoinsinfo.utils INFO Start the @CryptoCoinsInfoBot bot!
+2023-03-14 22:07:13,507 cryptocoinsinfo.utils INFO Start a request to coinmarketcap API
+2023-03-14 22:07:15,026 cryptocoinsinfo.utils INFO Has received a message "Chart" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:07:16,029 cryptocoinsinfo.utils INFO Success download the coinslist from coinmarketcap
+2023-03-14 22:07:16,029 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:07:16,664 cryptocoinsinfo.utils INFO Success save it to D:\dino-master\Dino_Bot\cryptocoinsinfo/coinmarketcoins.json
+2023-03-14 22:07:18,540 cryptocoinsinfo.utils INFO Start a request to cryptocompare API
+2023-03-14 22:07:18,818 cryptocoinsinfo.utils INFO Has received a message "Twitter" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:07:19,217 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:07:21,402 cryptocoinsinfo.utils INFO Success download the coinslist from cryptocompare
+2023-03-14 22:07:22,458 cryptocoinsinfo.utils INFO Success save it to D:\dino-master\Dino_Bot\cryptocoinsinfo/cryptocomparecoins.json
+2023-03-14 22:07:24,942 cryptocoinsinfo.utils INFO Has received a message "Telegram" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:08:56,788 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:08:59,015 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:09:00,183 cryptocoinsinfo.utils INFO Has received a message "feedback" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:09:00,584 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:09:08,432 cryptocoinsinfo.utils INFO Has received a message "Monero" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:09:09,643 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:17:03,511 cryptocoinsinfo.utils INFO Has received a message "Monero" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:17:05,083 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:18:42,092 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:18:48,224 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:18:51,264 cryptocoinsinfo.utils INFO Has received a message "Twitter" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:18:51,665 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:19:38,018 cryptocoinsinfo.utils INFO Has received a message "Website" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:19:38,435 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:19:43,360 cryptocoinsinfo.utils INFO Has received a message "feedback" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:19:43,729 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:20:13,221 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:20:17,439 cryptocoinsinfo.utils INFO Has received a message "Bitcoin" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:20:18,694 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:21:08,883 cryptocoinsinfo.utils INFO Has received a command "/start" from user Beans_crypto Let's get Mooning (@Beans_crypto), with id 5096806361
+2023-03-14 22:21:16,716 cryptocoinsinfo.utils INFO Has received a message "Eth" from user Beans_crypto Let's get Mooning (@Beans_crypto), with id 5096806361
+2023-03-14 22:21:18,149 cryptocoinsinfo.utils INFO Had send a message to a channel 5096806361
+2023-03-14 22:26:26,178 cryptocoinsinfo.utils INFO Start the @CryptoCoinsInfoBot bot!
+2023-03-14 22:26:31,199 cryptocoinsinfo.utils INFO Start a request to coinmarketcap API
+2023-03-14 22:26:33,449 cryptocoinsinfo.utils INFO Success download the coinslist from coinmarketcap
+2023-03-14 22:26:34,044 cryptocoinsinfo.utils INFO Success save it to D:\dino-master\Dino_Bot\cryptocoinsinfo/coinmarketcoins.json
+2023-03-14 22:26:36,233 cryptocoinsinfo.utils INFO Start a request to cryptocompare API
+2023-03-14 22:26:39,879 cryptocoinsinfo.utils INFO Success download the coinslist from cryptocompare
+2023-03-14 22:26:40,829 cryptocoinsinfo.utils INFO Success save it to D:\dino-master\Dino_Bot\cryptocoinsinfo/cryptocomparecoins.json
+2023-03-14 22:26:44,296 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:26:45,977 cryptocoinsinfo.utils INFO Has received a message "Coin_Discovery" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:26:46,378 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:26:50,133 cryptocoinsinfo.utils INFO Has received a message "Website" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:26:50,535 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:27:38,846 cryptocoinsinfo.utils INFO Start the @CryptoCoinsInfoBot bot!
+2023-03-14 22:27:43,861 cryptocoinsinfo.utils INFO Start a request to coinmarketcap API
+2023-03-14 22:27:44,073 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:27:46,275 cryptocoinsinfo.utils INFO Success download the coinslist from coinmarketcap
+2023-03-14 22:27:46,504 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:27:47,159 cryptocoinsinfo.utils INFO Success save it to D:\dino-master\Dino_Bot\cryptocoinsinfo/coinmarketcoins.json
+2023-03-14 22:27:47,802 cryptocoinsinfo.utils INFO Has received a message "Website" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:27:48,192 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:27:48,903 cryptocoinsinfo.utils INFO Start a request to cryptocompare API
+2023-03-14 22:27:51,763 cryptocoinsinfo.utils INFO Success download the coinslist from cryptocompare
+2023-03-14 22:27:52,649 cryptocoinsinfo.utils INFO Success save it to D:\dino-master\Dino_Bot\cryptocoinsinfo/cryptocomparecoins.json
+2023-03-14 22:28:03,967 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:28:05,989 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:28:07,994 cryptocoinsinfo.utils INFO Has received a message "Buy_Now" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:28:08,416 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:32:29,487 cryptocoinsinfo.utils INFO Has received a command "/start" from user Joker #DEAI #proxima (@NorthpoleHood), with id 1422762265
+2023-03-14 22:32:35,548 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:32:40,040 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:32:43,880 cryptocoinsinfo.utils INFO Has received a message "EOS" from user Joker #DEAI #proxima (@NorthpoleHood), with id 1422762265
+2023-03-14 22:32:45,298 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:33:01,109 cryptocoinsinfo.utils INFO Has received a message "DEAI" from user Joker #DEAI #proxima (@NorthpoleHood), with id 1422762265
+2023-03-14 22:33:01,495 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:33:05,678 cryptocoinsinfo.utils INFO Has received a message "ETH" from user Joker #DEAI #proxima (@NorthpoleHood), with id 1422762265
+2023-03-14 22:33:06,836 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:34:10,572 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:34:11,526 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:34:13,487 cryptocoinsinfo.utils INFO Has received a message "Website" from user Joker #DEAI #proxima (@NorthpoleHood), with id 1422762265
+2023-03-14 22:34:13,930 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:34:18,472 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:34:19,964 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:34:22,717 cryptocoinsinfo.utils INFO Has received a message "Twitter" from user Joker #DEAI #proxima (@NorthpoleHood), with id 1422762265
+2023-03-14 22:34:23,170 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:34:27,707 cryptocoinsinfo.utils INFO Has received a message "Coin_Discovery" from user Joker #DEAI #proxima (@NorthpoleHood), with id 1422762265
+2023-03-14 22:34:28,160 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:34:31,517 cryptocoinsinfo.utils INFO Has received a message "Buy_Now" from user Joker #DEAI #proxima (@NorthpoleHood), with id 1422762265
+2023-03-14 22:34:31,950 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:34:33,753 cryptocoinsinfo.utils INFO Has received a message "Chart" from user Joker #DEAI #proxima (@NorthpoleHood), with id 1422762265
+2023-03-14 22:34:34,207 cryptocoinsinfo.utils INFO Had send a message to a channel 1422762265
+2023-03-14 22:35:18,152 cryptocoinsinfo.utils INFO Has received a message "Coin_Discovery" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:35:18,597 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:35:21,935 cryptocoinsinfo.utils INFO Has received a message "Buy_Now" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:35:22,423 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:35:28,782 cryptocoinsinfo.utils INFO Has received a message "Twitter" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:35:29,245 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:35:44,762 cryptocoinsinfo.utils INFO Has received a command "/start" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:36:07,656 cryptocoinsinfo.utils INFO Has received a command "/start" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:36:13,026 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
+2023-03-14 22:36:15,485 cryptocoinsinfo.utils INFO Has received a message "Dai" from user Hyperbolic (@Hyperbolic1), with id 5878232860
+2023-03-14 22:36:16,890 cryptocoinsinfo.utils INFO Had send a message to a channel 5878232860
